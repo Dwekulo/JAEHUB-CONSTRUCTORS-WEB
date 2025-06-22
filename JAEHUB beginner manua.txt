@@ -1,0 +1,6 @@
+website for JAEHUB beginner
+react/css
+Download file, open folder in vs code
+open terminal
+install node modules: yarn install
+execute yarn start to view the web
